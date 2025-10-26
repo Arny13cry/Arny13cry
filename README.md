@@ -1,4 +1,4 @@
-![banner](https://files.oaiusercontent.com/file_0000000039946246b42c52d12c030ec7.png)
+![banner](https://imgur.com/a/MoOk0Ns)
 
 # 👋 Hey, I'm Arny13cry — Crypto Research & Web3 Builder
 
