@@ -1,4 +1,4 @@
-![banner]([img]https://i.imgur.com/QrITdk9.jpeg[/img])
+![banner](https://i.imgur.com/QrITdk9.jpeg)
 
 # 👋 Hey, I'm Arny13cry — Crypto Research & Web3 Builder
 
